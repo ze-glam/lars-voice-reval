@@ -1,0 +1,25 @@
+body {
+    background-image: url("caleb_bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 100%;
+    max-height: auto;
+}
+
+a{
+    color: black;
+    font-family: arial;
+    background-color: gainsboro;
+    border-style: solid;
+    border-width: 2px;
+    padding: 4px;
+}
+
+video{
+    margin-top: 240px;
+    border: 1px solid black;
+}
+
+H1{
+    color:red;
+}
